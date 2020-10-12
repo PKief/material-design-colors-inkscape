@@ -5,7 +5,7 @@ This projects generates a color palette with the colors of the [Material Design 
 ## Installation in Inkscape
 
 1. Download the file "material-design-colors.gpl"
-2. Copy it to the installation directory of Inkscape (/Program Files/Inkscape/share/inkscape/palettes) - you need admin rights for this
+2. Copy it to the installation directory of [Inkscape](https://inkscape.org/) (/Program Files/Inkscape/share/inkscape/palettes) - you need admin rights for this
 3. Restart / Start Inkscape
 4. Select the color palette by clicking on the arrow which is next to the color palette on the right side. The color palette is called "Material Design Colors".
 
