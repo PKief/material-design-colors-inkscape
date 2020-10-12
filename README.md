@@ -9,6 +9,8 @@ This projects generates a color palette with the colors of the [Material Design 
 3. Restart / Start Inkscape
 4. Select the color palette by clicking on the arrow which is next to the color palette on the right side. The color palette is called "Material Design Colors".
 
+<img src="https://raw.githubusercontent.com/PKief/material-design-colors-inkscape/main/images/inkscape-change-color-palette.gif" alt="change color palette in inkscape">
+
 ## Developer Infos
 
 ### Required tooling
